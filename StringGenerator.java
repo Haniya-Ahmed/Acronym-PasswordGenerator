@@ -1,6 +1,5 @@
 /**
 	This program contains two static methods, to generate acronyms or passwords.
-	@author Sarah Nearing #3571706
 	@author Haniya Ahmed #3675130
 */
 
